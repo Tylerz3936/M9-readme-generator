@@ -19,14 +19,23 @@ npm i
 ```
 
 ## Usage
+To generate a README file, run the following command in your terminal: 'node index.js'
 
+You will be prompted with a series of questions about your GitHub username, email address, project title, description, license, installation instructions, usage information, contribution guidelines, and test instructions. After answering all the questions, a README.md file will be generated based on your responses.
 
 ## License
 
 This project is licensed under the MIT license.
 
 ## Contributing
-a
+Contributions are welcome! If you would like to contribute, please follow these guidelines:
+
+- Fork the repository
+- Create a new branch (git checkout -b feature-branch)
+- Make your changes
+- Commit your changes (git commit -m 'Add some feature')
+- Push to the branch (git push origin feature-branch)
+- Create a new Pull Request
 
 ## Tests
 ```
